@@ -1,0 +1,62 @@
+const books = [
+  {
+    url: "https://images-na.ssl-images-amazon.com/images/I/81eB+7+CkUL.jpg",
+    title: "Atomic Habits",
+    auther: "James Clear",
+    price: 18.99,
+    language: "English",
+    desc: "Atomic Habits provides a proven framework for improving every day. \n" +
+          "James Clear reveals practical strategies for habit formation. \n" +
+          "Learn how small changes make a big difference over time. \n" +
+          "Backed by science and real-world examples, it's easy to apply. \n" +
+          "This book is essential for anyone seeking personal growth."
+  },
+  {
+    url: "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+    title: "The Alchemist",
+    auther: "Paulo Coelho",
+    price: 12.49,
+    language: "English",
+    desc: "A mystical journey of a young shepherd in search of treasure. \n" +
+          "Along the way, he learns to follow his dreams and heart. \n" +
+          "The story is rich in spiritual insights and symbolism. \n" +
+          "It inspires readers to find purpose in their own lives. \n" +
+          "A timeless tale of adventure, love, and destiny."
+  },
+  {
+    url: "https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg",
+    title: "To Kill a Mockingbird",
+    auther: "Harper Lee",
+    price: 14.95,
+    language: "English",
+    desc: "Set in the racially charged South, this novel explores justice. \n" +
+          "It follows young Scout Finch as she observes her father's courage. \n" +
+          "Themes of morality, empathy, and human dignity are central. \n" +
+          "The characters are unforgettable and deeply human. \n" +
+          "A must-read classic that still resonates today."
+  },
+  {
+    url: "https://m.media-amazon.com/images/I/81WcnNQ-TBL.jpg",
+    title: "1984",
+    auther: "George Orwell",
+    price: 10.99,
+    language: "English",
+    desc: "1984 is a chilling vision of a dystopian future. \n" +
+          "Orwell warns of totalitarianism and loss of freedom. \n" +
+          "Surveillance, propaganda, and control dominate society. \n" +
+          "The story of Winston Smith challenges thought and obedience. \n" +
+          "It's a powerful, relevant novel even decades later."
+  },
+  {
+    url: "https://m.media-amazon.com/images/I/91HHqVTAJQL.jpg",
+    title: "Sapiens: A Brief History of Humankind",
+    auther: "Yuval Noah Harari",
+    price: 21.99,
+    language: "English",
+    desc: "Sapiens traces the evolution of humans from early ancestors. \n" +
+          "Harari explores how we shaped societies, beliefs, and economies. \n" +
+          "He challenges what we know about history and progress. \n" +
+          "With clear insight, he connects the past to the present. \n" +
+          "A fascinating read that redefines our understanding of humanity."
+  }
+];
